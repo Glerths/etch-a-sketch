@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+#cont{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    height: 13px;
+    width: 13px;
+    border: solid black;
+}
